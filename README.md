@@ -39,3 +39,6 @@ This project focuses on analyzing electric vehicle (EV) data to explore trends i
 - Highlighted growth in EV adoption and geographic variations.
 - Identified BEV and PHEV market shares and their average ranges.
 - Provided actionable insights on vehicle incentive eligibility.
+
+The detailed analysis and report can be found in the linked below:
+- [Electric Vehicle Data Analysis dashboard](https://public.tableau.com/views/Electricvehicletableauproject/EVDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
